@@ -12,7 +12,7 @@ class TrendingDeveloperList extends Component {
   }
 
   componentDidMount () {
-    axios.get('http://localhost:4000/api/trending_developers/list')
+    axios.get('https://popular-ruby-developers.herokuapp.com/api/trending_developers/list')
       .then(response => {
         this.setState({list: response.data.list})
       })
