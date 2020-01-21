@@ -1,4 +1,4 @@
-link for heroku [popular ruby developers react](https://popular-ruby-developers-react.herokuapp.com/).
+link for heroku [popular ruby developers react](http://popular-ruby-developers-react.herokuapp.com/).
 
 ## Available Scripts
 
