@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+link for heroku [popular ruby developers react](https://popular-ruby-developers-react.herokuapp.com/).
 
 ## Available Scripts
 
